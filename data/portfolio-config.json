@@ -1,0 +1,661 @@
+{
+  "personal": {
+    "name": "Tesfaye Alemayehu",
+    "title": "AI and Data Engineer",
+    "tagline": "Building intelligent systems that shape the future",
+    "bio": "Machine Learning / AI Engineer with expertise in Generative AI and NLP, specializing in large language models, Embeddings, Vector databases, and RAG pipelines. experienced in building impactful LLM-powered Assistant Agents. Demonstrated success in designing, developing, and deploying end-to-end ML/DL projects, grounded in strong software and data engineering principles. Proficient in Python, TensorFlow, Scikit-Learn, and Docker. Driven to leverage machine learning for innovative solutions and positive impact, I actively seek opportunities to expand my expertise.",
+    "location": "Addis Ababa, Ethiopia",
+    "email": "tesfayealemayehu27@gmail.com",
+    "phone": "+251964345364",
+    "website": "https://tesfayealemayehu.dev",
+    "avatar": "/20211103_102820-removebg-preview.png?height=400&width=400",
+    "blog": "https://blog.tesfayealemayehu.dev"
+  },
+  "social": {
+    "github": "https://github.com/tesfayealex ",
+    "linkedin": "https://linkedin.com/in/tesfaye-alemayehu",
+    "twitter": "https://x.com/tesalex7",
+    "medium": "https://hubpages.com/@tesfayealemayehu"
+  },
+  "availability": [
+    {
+      "title": "AI/ML Consulting",
+      "description": "Expert guidance on machine learning strategy and implementation",
+      "icon": "🤖",
+      "status": "Available"
+    },
+    {
+      "title": "Full-time Opportunities",
+      "description": "Open to discussing full-time AI Engineer positions",
+      "icon": "💼",
+      "status": "Available"
+    },
+    {
+      "title": "Speaking Engagements",
+      "description": "Conferences, workshops, and educational events",
+      "icon": "🎤",
+      "status": "Available"
+    },
+    {
+      "title": "Technical Advisory",
+      "description": "Advisory roles for startups and established companies",
+      "icon": "📊",
+      "status": "Available"
+    },
+    {
+      "title": "Open Source Collaboration",
+      "description": "Contributing to meaningful open source AI projects",
+      "icon": "🌐",
+      "status": "Available"
+    }
+  ],
+  "skills": {
+    "categories": [
+      {
+        "name": "AI Frameworks & Libraries",
+        "icon": "🤖",
+        "skills": [
+          { "name": "LangGraph", "level": 95 },
+          { "name": "N8N", "level": 95 },
+          { "name": "Autogen", "level": 90 },
+          { "name": "LangChain", "level": 85 },
+          { "name": "LlamaIndex", "level": 88 },
+          { "name": "LangFuse", "level": 85 }
+        ]
+      },
+      {
+        "name": "Web Frameworks & Libraries",
+        "icon": "💻",
+        "skills": [
+          { "name": "FastAPI", "level": 95 },
+          { "name": "Flask", "level": 95 },
+          { "name": "Node.js", "level": 90 },
+          { "name": "Django", "level": 85 },
+          { "name": "Next.js", "level": 85 }
+        ]
+      },
+      {
+        "name": "Programming Languages",
+        "icon": "💻",
+        "skills": [
+          { "name": "Python", "level": 95 },
+          { "name": "JavaScript/TypeScript", "level": 85 },
+          { "name": "SQL", "level": 90 },
+          { "name": "Go", "level": 75 }
+        ]
+      },
+      {
+        "name": "Cloud & Infrastructure",
+        "icon": "☁️",
+        "skills": [
+          { "name": "Self-hosted linux server", "level": 95 },
+          { "name": "Azure", "level": 95 },
+          { "name": "AWS", "level": 90 },
+          { "name": "Google Cloud", "level": 85 }
+        ]
+      },
+      {
+        "name": "ML Python Modules",
+        "icon": "📊",
+        "skills": [
+          { "name": "Scikit-learn", "level": 95 },
+          { "name": "PyTorch", "level": 90 },
+          { "name": "TensorFlow", "level": 85 },
+          { "name": "Sentence Transformers", "level": 85 },
+          { "name": "Huggingface", "level": 80 },
+          { "name": "Numpy", "level": 85 }
+        ]
+      },
+      {
+        "name": "Database Technologies",
+        "icon": "🗄️",
+        "skills": [
+          { "name": "Weaviate", "level": 95 },
+          { "name": "PostgreSQL", "level": 95 },
+          { "name": "MongoDB", "level": 90 },
+          { "name": "Redis", "level": 85 },
+          { "name": "Apache Spark", "level": 85 }
+        ]
+      },
+      {
+        "name": "DevOps Tools",
+        "icon": "🔄",
+        "skills": [
+          { "name": "Docker", "level": 95 },
+          { "name": "GitLab CI/CD pipeline", "level": 95 },
+          { "name": "GitHub Actions", "level": 95 },
+          { "name": "Linux", "level": 95 },
+          { "name": "Kubernetes", "level": 60 }
+        ]
+      },
+      {
+        "name": "Data Engineering Tools",
+        "icon": "📊",
+        "skills": [
+          { "name": "Pandas", "level": 95 },
+          { "name": "Airflow", "level": 95 },
+          { "name": "Kedro", "level": 90 },
+          { "name": "Redash", "level": 90 },
+          { "name": "dbt", "level": 85 },
+          { "name": "Airbyte", "level": 85 }
+        ]
+      },
+      {
+        "name": "Emerging Technologies and Methodologies",
+        "icon": "🔄",
+        "skills": [
+          { "name": "Prompt Engineering", "level": 95 },
+          { "name": "Agentic AI", "level": 95 },
+          { "name": "AI Assistants / copilot", "level": 95 },
+          { "name": "Microservices Architecture", "level": 90 },
+          { "name": "MCP server development", "level": 90 },
+          { "name": "Workflow automation", "level": 90 },
+          { "name": "Semantic-Aware Text (SAT) algorithm", "level": 90 },
+          { "name": "Model Evaluation", "level": 80 }
+        ]
+      },
+      {
+        "name": "Soft Skills",
+        "icon": "💪",
+        "skills": [
+          { "name": "Technical Leadership", "level": 95 },
+          { "name": "Cross-functional Collaboration", "level": 95 },
+          { "name": "Problem Solving", "level": 95 },
+          { "name": "Research & Development", "level": 95 },
+          { "name": "Mentoring", "level": 95 },
+          { "name": "Project Management", "level": 90 },
+          { "name": "Communication", "level": 90 },
+          { "name": "Time Management", "level": 90 }
+        ]
+      }
+    ]
+  },
+  "experience": [
+    {
+      "id": "tenacious-corp",
+      "company": "Tenacious Intelligence Corp.",
+      "position": "GenAI and Data Engineer",
+      "duration": "2024 - Present",
+      "location": "California, USA",
+      "description": "Lead AI initiatives for autonomous systems, managing a team of 8 engineers and delivering production ML models serving 10M+ users daily.",
+      "achievements": [
+        "Directed a team of AI engineers in creating a legal AI assistant using multi-agent architecture (Autogen), projected to enhance legal research efficiency by up to 10x for an Italian law firm.",
+        "Engineered a Python-based data pipeline for complex legal datasets, processing over 80GB into Weaviate and developing LLM-generated schemas to improve Retrieval-Augmented Generation (RAG) accessibility.",
+        "Developed an AI-powered survey management system (Django, Next.js), automating analysis and reducing survey data processing time from days to seconds, significantly cutting associated costs.",
+        "Instituted a data warehouse (PostgreSQL, Kedro, dbt) and Redash dashboards for a content creator, achieving an 80% satisfaction rate from senior management by enhancing data visibility for strategic decisions.",
+        "Managed FastAPI and Go/MongoDB backend integrations for AI services, ensuring robust support for applications managing large-scale user interaction and data processing."
+      ],
+      "products": [
+        {
+          "name": "Legal AI Assistant",
+          "description": "A legal AI assistant using multi-agent architecture (Autogen), projected to enhance legal research efficiency by up to 10x for an Italian law firm.",
+          "details": "As a GenAI and Data Engineer at Tenacious Intelligence Corp., I lead the development of our flagship Legal AI Assistant that enables real-time decision making for an Italian law firm. My responsibilities include architecting scalable ML pipelines, optimizing model performance, and mentoring junior engineers. I collaborate closely with product managers to translate business requirements into technical solutions and with DevOps to ensure smooth deployment and monitoring of ML models in production.",
+          "technicalSummary": [
+            {
+              "name": "Autogen",
+              "link": "https://www.autogen.com/"
+            },
+            {
+              "name": "Weaviate",
+              "link": "https://www.weaviate.io/"
+            },
+            {
+              "name": "FastAPI",
+              "link": "https://fastapi.tiangolo.com/"
+            },
+            {
+              "name": "Next.js",
+              "link": "https://nextjs.org/"
+            },
+            {
+              "name": "Openai",
+              "link": "https://openai.com/"
+            },
+            {
+              "name": "LangGraph",
+              "link": "https://www.langchain.com/langgraph"
+            },
+            {
+              "name": "Go",
+              "link": "https://go.dev/"
+            },
+            {
+              "name": "Azure",
+              "link": "https://azure.microsoft.com/"
+            },
+            {
+              "name": "MongoDB",
+              "link": "https://www.mongodb.com/"
+            }
+          ],
+          "productLink": ""
+        },
+        {
+          "name": "Survey Management System",
+          "description": "An AI-powered survey management system (Django, Next.js), automating analysis and reducing survey data processing time from days to seconds, significantly cutting associated costs.",
+          "details": "Led the project from wireframing and schema design to full implementation, creating a comprehensive survey management platform using Django (backend) and Next.js (frontend).",
+          "technicalSummary": [
+            {
+              "name": "Django",
+              "link": "https://www.djangoproject.com/"
+            },
+            {
+              "name": "Next.js",
+              "link": "https://nextjs.org/"
+            },
+            {
+              "name": "Openai",
+              "link": "https://openai.com/"
+            },
+            {
+              "name": "Spacy",
+              "link": "https://spacy.io/"
+            }
+          ],
+          "productLink": "https://myquickmessage.com"
+        },
+        {
+          "name": "Data Analysis for a Children's Content Creator (Ubongo)",
+          "description": "Data analysis for a children's content creator (Ubongo) to improve their content creation process and engagement. Provide the management team with deep, actionable insights from disparate company data sources, including content, HR, and financials.",
+          "details": "Architected a data infrastructure using PostgreSQL and built interactive, insightful dashboards using Redash. Employed Kedro and dbt for robust data pipeline management and transformation, ensuring continuous and automated updates directly from the company's file servers.",
+          "technicalSummary": [
+            {
+              "name": "PostgreSQL",
+              "link": "https://www.postgresql.org/"
+            },
+            {
+              "name": "Kedro",
+              "link": "https://kedro.org/"
+            },
+            {
+              "name": "dbt",
+              "link": "https://www.dbt.com/"
+            },
+            {
+              "name": "Redash",
+              "link": "https://redash.io/"
+            },
+            {
+              "name": "AWS",
+              "link": "https://aws.amazon.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gebeya-inc",
+      "company": "Gebeya Inc.",
+      "position": "Machine Learning Engineer",
+      "duration": "2023 - 2024",
+      "location": "Addis Ababa, Ethiopia",
+      "description": "Developed and deployed a suite of AI-powered services for a talent marketplace, focusing on enhancing talent matching, data analysis, and user interaction through a microservices architecture.",
+      "achievements": [
+        "Enhanced AI talent search for a SaaS platform using Generative AI and RAG, incorporating an SVM CV classifier and semantic resume ranking, projected to save clients tens of recruitment hours.",
+        "Designed an agentic AI chatbot (LangGraph, Autogen) with GPT-4 function calling and multi-channel integration, streamlining engineering team access to AI tools and boosting internal productivity.",
+        "Implemented Langfuse for comprehensive AI interaction tracing and Redis caching, optimizing system performance, and contributing to a notable reduction in API operational costs.",
+        "Advanced algorithm development for candidate matching using Python and embedding models, achieving a 90% accuracy rate and elevating average client satisfaction scores by 20 points.",
+        "Led R&D for an autonomous video subtitling system (English to Amharic), delivering over 90% accuracy in automated subtitling and documenting key AI dubbing challenges."
+      ],
+      "products": [
+        {
+          "name": "AI-Powered Talent Matching & Vetting",
+          "description": "AI-powered talent matching and vetting system for a SaaS platform, using Generative AI and RAG, incorporating an SVM CV classifier and semantic resume ranking, projected to save clients tens of recruitment hours.",
+          "details": "Throughout Gebeya Saas product I was able to work on - Document Classification: Engineered a high-accuracy CV/Resume classifier by training an SVM model on a dataset of over 100,000 scraped and internal documents, outperforming initial keyword-based and early GPT-3.5 approaches. Semantic Resume Ranking: Developed a sophisticated ranking system using the 'all-mpnet-base-v2' model and experimented with multiple open-source embedding models (Jina, BGE, GTE). Implemented a Semantic-Aware Text (SAT) algorithm and tested various similarity metrics (Cosine, Euclidean) to rank resumes based on contextual relevance, significantly improving match quality. Contextual Summarization: Fine-tuned BERT and Longformer models to generate concise summaries of resumes and job descriptions, overcoming short context window limitations.",
+          "technicalSummary": [
+            {
+              "name": "FastAPI",
+              "link": "https://fastapi.tiangolo.com/"
+            },
+            {
+              "name": "LangGraph",
+              "link": "https://www.langchain.com/langgraph"
+            },
+            {
+              "name": "PyTorch",
+              "link": "https://pytorch.org/"
+            },
+            {
+              "name": "Sentence Transformers",
+              "link": "https://www.sentence-transformers.org/"
+            },
+            {
+              "name": "MongoDB",
+              "link": "https://www.mongodb.com/"
+            },
+            {
+              "name": "Azure",
+              "link": "https://azure.microsoft.com/"
+            }
+          ],
+          "productLink": "https://saas.gebeya.com/"
+        },
+        {
+          "name": "Agentic AI Chatbot through Multi-Channel Integration",
+          "description": "An agentic AI chatbot through multi-channel integration for Gebeya SaaS platform that enables users to interact with gebeya Saas using natural language queries through multiple channels.",
+          "details": "This project enables users to interact with gebeya Saas using natural language queries through multiple channels. I was able to work on - NLU & NER: Initially built core components using Rasa for intent classification and named entity recognition before transitioning to more advanced, LLM-native function calling to handle complex user queries. Multi-Channel Integration: Ensured robust, scalable communication across multiple platforms (Telegram, WhatsApp, Web UI) by engineering a custom webhook-based backend to manage connections between the platforms and agentic workflows. System Observability: Integrated Langfuse for detailed tracing, logging, and Redis caching of all AI interactions, capturing user sessions, API costs, requests, and model responses to optimize performance and cost.",
+          "technicalSummary": [
+            {
+              "name": "LangGraph",
+              "link": "https://www.langchain.com/langgraph"
+            },
+            {
+              "name": "Autogen",
+              "link": "https://www.autogen.com/"
+            },
+            {
+              "name": "N8N",
+              "link": "https://n8n.io/"
+            },
+            {
+              "name": "Langfuse",
+              "link": "https://www.langfuse.com/"
+            },
+            {
+              "name": "Redis",
+              "link": "https://redis.io/"
+            },
+            {
+              "name": "FastAPI",
+              "link": "https://fastapi.tiangolo.com/"
+            },
+            {
+              "name": "Microservices",
+              "link": "https://en.wikipedia.org/wiki/Microservices"
+            },
+            {
+              "name": "Rasa",
+              "link": "https://rasa.com/"
+            },
+            {
+              "name": "Docker",
+              "link": "https://www.docker.com/"
+            },
+            {
+              "name": "Azure",
+              "link": "https://azure.microsoft.com/"
+            },
+            {
+              "name": "GCP",
+              "link": "https://cloud.google.com/"
+            }
+          ],
+          "productLink": "https://jitume.gebeya.com/"
+        },
+        {
+          "name": "Autonomous Video Subtitling System",
+          "description": "An R&D project for an autonomous video subtitling system that uses Generative AI and RAG to subtitle videos.",
+          "details": "Led an experimental project to build an autonomous system for subtitling and dubbing videos from English to Amharic. Achieved high accuracy in subtitling, while identifying and documenting key challenges in maintaining speaker tone, gender, and speed for AI-powered dubbing.",
+          "technicalSummary": [
+            {
+              "name": "FastAPI",
+              "link": "https://fastapi.tiangolo.com/"
+            },
+            {
+              "name": "Azure",
+              "link": "https://azure.microsoft.com/"
+            },
+            {
+              "name": "GCP",
+              "link": "https://cloud.google.com/"
+            },
+            {
+              "name": "FFmpeg",
+              "link": "https://ffmpeg.org/"
+            },
+            {
+              "name": "Moviepy",
+              "link": "https://moviepy.org/"
+            },
+            {
+              "name": "ElevenLabs",
+              "link": "https://elevenlabs.io/"
+            }
+          ],
+          "productLink": ""
+        }
+      ]
+    },
+    {
+      "id": "etta-plc",
+      "company": "EthiopiaTaxi Solution PLC",
+      "position": "Software Engineer, Research And Development Lead",
+      "duration": "2021 - 2024",
+      "location": "Addis Ababa, Ethiopia",
+      "description": "Started as a software engineer and later promoted to Research and Development Lead. I was able to work on a wide range of projects, from ERP implementation to building infrastructure for a comprehensive platform. Afterward also led a team of R&D engineers working with 10+ clients at the time for ERP Implementation and Data Engineering and ML models development for a delivery platform.",
+      "achievements": [
+        "Led a team of engineers in developing ML models (Logistic Regression, feature engineering) for ETA prediction on the Zmall platform, achieving a 10% reduction in operational costs.",
+        "Headed backend refactoring (Node.js, Express.js) and API development for the Zmall delivery system, significantly lowering operator action latency and improving system scalability.",
+        "Devised a personalized recommendation engine (K-Nearest Neighbors, Random Forest) using Python and Spark, resulting in a 10-fold increase in sales and a 30% lift in user engagement with recommendations.",
+        "Pioneered an Airbyte-powered Data Warehouse (PostgreSQL) for Zmall, enhancing data preprocessing and statistical analysis capabilities, which improved decision-making accuracy by 30%.",
+        "Spearheaded 15 Odoo ERP implementations; directed Zmall's migration to Odoo and engineered Zoorya (SaaS ERP), reducing data migration project timelines by an average of 50%."
+      ],
+      "products": [
+        {
+          "name": "Zmall Delivery Platform",
+          "description": "A delivery platform for the company which aims at serving not just as a delivery platform but also as a platform for a comprehensive suite of services.",
+          "details": "As a software engineer and then as a research and development lead, I played a pivotal role in stabilizing, optimizing, and scaling a high-traffic delivery platform by overhauling the backend systems, enhancing the user and operator experience, and building a comprehensive data analytics and machine learning pipeline. Key Projects & Accomplishments: System Optimization & Backend Refactoring - Conducted a full-system analysis to identify and resolve bugs across the stack (Node.js, Express.js, Angular). Analyzed and refactored the Node.js backend to enhance efficiency, reduce latency, and improve scalability. This included optimizing database calls and removing redundant API functions to lower operator action latency. Redesigned and implemented a new, efficient, and secure API to support a completely new user-facing mobile application. Feature Development & Integrations - Payment Gateways: Engineered integrations with a multitude of payment gateways, including API-hosted, SOAP (with StrongSwan VPN), and REST-based systems, as well as local bank and specialized processors like Cybersource. Managed infrastructure on Linux servers for a company-owned payment aggregator. Value-Added Services: Developed and deployed new platform features, including customer behavior tracking (store/item views), an 'Easy Checkout' API, sports game predictions for prizes, and booking systems for events and trips. Also built an in-app advertising feature. Third-Party Services: Integrated essential services including SMS, email, and push notifications. Data Warehouse & Business Intelligence - Data Pipeline: Architected and built a data warehouse by migrating data from MongoDB to a star-schema-designed PostgreSQL database using Airbyte. Analytics Dashboard: Built a comprehensive analytics dashboard in Odoo by integrating live and historical data via a secure API. The dashboard provided critical insights into Order Volume & Status (Completed, canceled, late orders), Operational Efficiency (Dispatch, prep, and delivery times), Customer Behavior (Acquisition, retention, order frequency), Financial Health (Revenue, expenses, net profit, payment methods). Analytics Datasets: Created specialized datasets in Python and Spark for deeper analysis, such as User-Store-Location and User-Item-Location correlations. Machine Learning Model Development - Developed and deployed several machine learning models to enhance platform features: ETA Prediction: Logistic Regression model using price, distance, and time variables. Route Optimization: Employed Google OR-Tools to optimize multi-stop delivery routes (Driver -> Store -> User). Recommendation Engines: Built user-based and item-based prediction models using K-Nearest Neighbors and Random Forest. Geospatial Analysis: Used K-Means clustering to analyze destination hotspots and store-specific delivery zones. Forecasting: Developed daily order forecasting models.",
+          "technicalSummary": [
+            {
+              "name": "Node.js",
+              "link": "https://nodejs.org/"
+            },
+            {
+              "name": "Express.js",
+              "link": "https://expressjs.com/"
+            },
+            {
+              "name": "MongoDB",
+              "link": "https://www.mongodb.com/"
+            },
+            {
+              "name": "PostgreSQL",
+              "link": "https://www.postgresql.org/"
+            },
+            {
+              "name": "Python",
+              "link": "https://www.python.org/"
+            },
+            {
+              "name": "Apache Spark",
+              "link": "https://spark.apache.org/"
+            },
+            {
+              "name": "Scikit-learn",
+              "link": "https://scikit-learn.org/"
+            },
+            {
+              "name": "Google OR-Tools",
+              "link": "https://developers.google.com/optimization"
+            },
+            {
+              "name": "Airbyte",
+              "link": "https://airbyte.com/"
+            },
+            {
+              "name": "Odoo",
+              "link": "https://www.odoo.com/"
+            }
+          ],
+          "productLink": "https://zmall.et"
+        },
+        {
+          "name": "Odoo ERP Implementation",
+          "description": "An ERP implementation for a client using Odoo framework.",
+          "details": "As a software engineer later on as a research and development lead, I spearheaded the implementation, customization, and integration of Odoo ERP systems for over 15 companies across diverse sectors, including retail and manufacturing. My role involved deep business process analysis and the development of scalable, compliant solutions. Key Projects & Accomplishments: ERP Implementation & Customization - Successfully deployed Odoo ERP for numerous clients, tailoring the system to meet specific industry needs and Ethiopian government compliance requirements. Developed custom modules from the ground up, demonstrating a profound understanding of Odoo's core modules (Accounting, Sales, Purchase), their interdependent workflows, and complex underlying calculations. Platform Migration & SaaS Development - Zmall Migration: Led the strategic migration of the Zmall delivery system from a MEAN stack to a fully integrated Odoo environment, including its complex payment gateway infrastructure. Zoorya (SaaS Project): Architected and built 'Zoorya', a managed SaaS ERP solution based on Odoo. This platform provides small and medium enterprises with a ready-made, compliant, and managed ERP system, complete with POS and payment integrations, eliminating the need for dedicated hardware and IT management. Scalability Experiments: Built a scalable stadium and referee booking application on Odoo with a Flutter frontend to test the platform's limits and capabilities. Integration & Data Management - Payment & POS Integration: Integrated a wide array of payment gateways and three distinct types of POS systems into Odoo, enabling seamless transactions and data synchronization. This included leading the direct hardware integration project. Complex Data Migration & Support: Managed and executed critical data migrations and bug fixes for clients post-deployment, including the successful transfer of a retail database exceeding 60GB while ensuring data integrity and government compliance.",
+          "technicalSummary": [
+            {
+              "name": "Odoo",
+              "link": "https://www.odoo.com/"
+            },
+            {
+              "name": "Python",
+              "link": "https://www.python.org/"
+            },
+            {
+              "name": "PostgreSQL",
+              "link": "https://www.postgresql.org/"
+            },
+            {
+              "name": "JavaScript",
+              "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            },
+            {
+              "name": "Docker",
+              "link": "https://www.docker.com/"
+            },
+            {
+              "name": "Azure",
+              "link": "https://azure.microsoft.com/"
+            },
+            {
+              "name": "Linux",
+              "link": "https://www.linux.org/"
+            }
+          ],
+          "productLink": "https://odooethiopia.com/"
+        },
+        {
+          "name": "Zoorya ERP SaaS",
+          "description": "A comprehensive ERP solution built as a SaaS platform for businesses.",
+          "details": "Led the development of Zoorya, a comprehensive ERP SaaS solution built on Odoo framework. Managed the full project lifecycle from requirements gathering to deployment.",
+          "technicalSummary": [
+            {
+              "name": "Odoo",
+              "link": "https://www.odoo.com/"
+            },
+            {
+              "name": "Python",
+              "link": "https://www.python.org/"
+            },
+            {
+              "name": "PostgreSQL",
+              "link": "https://www.postgresql.org/"
+            },
+            {
+              "name": "Express.js",
+              "link": "https://expressjs.com/"
+            },
+            {
+              "name": "MongoDB",
+              "link": "https://www.mongodb.com/"
+            },
+            {
+              "name": "Docker",
+              "link": "https://www.docker.com/"
+            },
+            {
+              "name": "Linux",
+              "link": "https://www.linux.org/"
+            }
+          ],
+          "productLink": "https://zoorya.et"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "deep-research-chat",
+      "description": "A project repository focused on research-oriented conversational AI or chat applications. The project contains a Next.js frontend, a modern web interface with SSE Transport implementation using FastAPI backend.",
+      "technologies": ["Python", "Next.js", "FastAPI", "SSE"],
+      "features": [
+        "Frontend built with Next.js for rapid development and deployment",
+        "Modern web development workflows with SSE Transport implementation using FastAPI backend",
+        "Potential research or chat AI backend (inferred from project name)"
+      ],
+      "github": "https://github.com/tesfayealex/deep-research-chat",
+      "demo": "",
+      "status": "Development",
+      "image": "/deep_research.jpg?height=300&width=500"
+    },
+    {
+      "title": "MCP Agent Gateway",
+      "description": "A modular system for autonomous agents to interact programmatically with external services (like GitHub, Google Drive, and filesystems) via the Method Call Protocol (MCP). It provides a unified API gateway for tool discovery, orchestration, and execution, abstracting service protocols and enabling scalable, intelligent automation.",
+      "technologies": ["Python", "FastAPI", "FastMCP", "LlamaIndex", "Docker", "Pydantic"],
+      "features": [
+        "Centralized API gateway for MCP servers",
+        "Unified tool discovery and invocation",
+        "Integration with GitHub, Google Drive, and filesystems",
+        "Cross-platform compatibility",
+        "Authentication and authorization",
+        "Agent-to-service orchestration via MCP and A2A protocols",
+        "Extensible, RAG-ready agent support"
+      ],
+      "github": "https://github.com/tesfayealex/mcp-agent-gateway",
+      "demo": "",
+      "status": "Development",
+      "image": "/mcp_proxy.png?height=300&width=500"
+    },
+    {
+      "title": "Amharic Speech-to-Text Deep Learning Model",
+      "description": "A deep learning project focused on building robust and accurate speech-to-text models for the Amharic language. The system targets hands-free voice transcription, particularly to support intelligent forms for nutritional data collection in Ethiopia and Kenya. The model emphasizes strong noise robustness and real-world applicability.",
+      "image": "/stt.webp?height=300&width=500",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "Jupyter Notebook",
+        "scikit-learn",
+        "pandas",
+        "NumPy",
+        "SoundFile"
+      ],
+      "features": [
+        "End-to-end deep learning pipeline for Amharic speech recognition",
+        "Audio preprocessing and MFCC feature extraction",
+        "Noise-robust neural network model",
+        "Rich metadata extraction and management",
+        "Modular project structure with scripts and notebooks",
+        "Support for data versioning (DVC) and model tracking"
+      ],
+      "github": "https://github.com/tesfayealex/Speech-to-Text",
+      "demo": "",
+      "status": "Prototype"
+    },
+    {
+      "title": "Traffic Data Pipeline and Warehouse",
+      "description": "A scalable data warehouse and pipeline system designed for a city traffic department to collect, store, and analyze vehicle trajectory data from swarm UAVs (drones) and static roadside cameras. The system utilizes the ELT (Extract, Load, Transform) framework to efficiently organize and process large-scale traffic data for downstream analytics and projects.",
+      "image": "traffic-data-pipeline-and-warehouse.png",
+      "technologies": ["Apache Airflow", "PostgreSQL", "DBT (Data Build Tool)", "Redash", "Docker", "Python"],
+      "features": [
+        "Automated data extraction and loading from drone/camera sources",
+        "Workflow orchestration and scheduling using Airflow DAGs",
+        "Transformations and modeling with DBT for analytics-ready data",
+        "Centralized data warehousing in PostgreSQL",
+        "Data visualization and querying with Redash",
+        "Containerized deployment and setup with Docker/Docker Compose"
+      ],
+      "github": "https://github.com/tesfayealex/traffic-data-pipeline-and-warehouse",
+      "demo": "",
+      "status": "Prototype"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Google Developers Machine Learning Bootcamp",
+      "school": "Google",
+      "year": "2022-2023",
+      "focus": "Machine Learning"
+    },
+    {
+      "degree": "Professional Certificate - Machine learning, data engineering, and Web3",
+      "school": "10 Academy",
+      "year": "2022",
+      "focus": "Artificial Intelligence & Machine Learning"
+    },
+    {
+      "degree": "Bachelor of Science in Software Engineering",
+      "school": "Addis Ababa Science And Technology University",
+      "year": "2016-2021",
+      "focus": "Software Engineering"
+    }
+  ],
+  "certifications": [
+    "Certified Tensorflow Developer, From Tensorflow",
+    "Azure Data Engineer Associate, From Microsoft",
+    "AWS Cloud Practitioner, From Amazon AWS",
+    "Deep Learning Specialization, From Coursera"
+  ],
+  "publications": []
+}
