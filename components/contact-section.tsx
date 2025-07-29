@@ -26,11 +26,17 @@ export function ContactSection() {
     setSubmitStatus("idle")
 
     try {
-      // Simulate form submission - replace with actual implementation
-      await new Promise((resolve) => setTimeout(resolve, 2000))
+      const response = await fetch('/api/contact', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(formData),
+      })
 
-      // For now, we'll just log the form data and show success
-      console.log("Form submitted:", formData)
+      if (!response.ok) {
+        throw new Error('Failed to send message')
+      }
 
       // Reset form and show success
       setFormData({ name: "", email: "", subject: "", message: "" })
